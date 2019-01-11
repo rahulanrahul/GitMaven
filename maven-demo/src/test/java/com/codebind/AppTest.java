@@ -8,6 +8,7 @@ public class AppTest {
 
 	@Test
 	public void test() {
+		String a;
 		String text = "sample";
 		App obj = new App();
 		assertEquals(text, obj.Sample());
